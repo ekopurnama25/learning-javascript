@@ -1,12 +1,28 @@
 //======================================
 // Control Flow
 //======================================
-var angka = prompt("Masukkan angka");
-if (angka % 2 === 0) {
-  alert(angka + " Genap");
-} else {
-  alert(angka + " Ganjil");
-}
+//Selama Kondisinya bernilai true akan melakukan loop tidak perna berakhir
+// var nilai = 1;
+// while (nilai <= 10) {
+//   console.log("hello world " + nilai + "x");
+//   nilai++;
+// }
+// var nilai = 0;
+// while (nilai <= 5) {
+//   console.log("hello world");
+//   nilai++;
+// }
+// var ulang = true;
+// while (ulang) {
+//   console.log("Hello World");
+//   ulang = confirm("lakukan Lagi?");
+// }
+// var angka = prompt("Masukkan angka");
+// if (angka % 2 === 0) {
+//   alert(angka + " Genap");
+// } else {
+//   alert(angka + " Ganjil");
+// }
 
 // Perulangan
 // alert("Mulai");
